@@ -14,5 +14,5 @@ El proyecto fue hecho en Codeblocks utilizando un archivo .cpp y .h, conteniendo
 -- Metodo de Lin Bairstrow
 
 # ***** Antes de correr el programa *****
-Antes de correr el programa es necesario definir la función que se evaluará en el archivo de Funciones.h, posteriormente se guarda el archivo
+Antes de correr el programa (main.cpp) es necesario definir la función que se evaluará en el archivo de Funciones.h, posteriormente se guarda el archivo
 y se corre el prorama.
